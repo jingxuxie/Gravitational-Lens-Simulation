@@ -1,2 +1,2 @@
 # Gravitational-Lens-Simulation
-Run /dist/black_hole_ui/black_hole_ui.exe.
+Download /build and /dist, then run /dist/black_hole_ui/black_hole_ui.exe.
